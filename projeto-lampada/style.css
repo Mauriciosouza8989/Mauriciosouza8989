@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: rgb(120, 63, 143);
+    padding-top: 100px;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    color: rgb(207, 204, 159);
+    font-size: 50px;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+#corpo {
+    width: 700px;
+    height: auto;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: white;
+    /* background: rgb(197, 190, 190); */
+    border: rgb(71, 34, 34) solid 2px;
+    border-radius: 10px;
+}
+
+button {
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(104, 38, 104);
+    border-radius: 10px;
+    color: white;
+}
+
+#liga:hover {
+    background: yellow;
+    color: black;
+}
+
+#desliga:hover {
+    background: rgb(68, 42, 42);
+    color: rgb(255, 255, 255);
+}
+
+#btn {
+    display: flex;
+    justify-content: space-around;
+}
