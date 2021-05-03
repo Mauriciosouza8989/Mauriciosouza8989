@@ -44,6 +44,15 @@ button {
     color: white;
 }
 
+#nova {
+    width: 300px;
+    padding: 10px;
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    display: none;
+}
+
 #liga:hover {
     background: yellow;
     color: black;
