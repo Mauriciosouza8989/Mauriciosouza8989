@@ -19,7 +19,12 @@
 
 <br/>
 
-# Ultimos Projetos
-[Food Explorer 🍔🍽](https://front-food-explorer.netlify.app/)
+## Ultimos Projetos
+- [Food Explorer 🍔🍽](https://front-food-explorer.netlify.app/)
 
-[Focus Timer ⏱](https://foccus-timer.netlify.app)
+- [Focus Timer ⏱](https://foccus-timer.netlify.app)
+
+- [Cine Ebac 🎬](https://cine-ebac.vercel.app/)
+
+Amo conhecer novas tecnologias. Atualmente estudando na EBAC em busca de uma oportunidade de trabalho!
+ 
